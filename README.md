@@ -1,1 +1,1 @@
-# Baseball-Player-Image-Microservice
+# Baseball-Player-Image-Microservice-Communication-Contract
